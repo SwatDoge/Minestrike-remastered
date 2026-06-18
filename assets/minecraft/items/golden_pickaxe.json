@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/aug"
+    },
+    "cases": [
+      {
+        "when": "AUG_CHAMELEON",
+        "model": {
+          "type": "model",
+          "model": "item/aug"
+        }
+      }
+    ]
+  }
+}

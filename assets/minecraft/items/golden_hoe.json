@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/deagle"
+    },
+    "cases": [
+      {
+        "when": "DEAGLE_BLAZE",
+        "model": {
+          "type": "model",
+          "model": "item/deagle"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "guns.awp": {
+    "category": "master",
+    "sounds": [
+      "guns/awp/awp_1",
+      "guns/awp/awp_2",
+      "guns/awp/awp_3",
+      "guns/awp/awp_4",
+      "guns/awp/awp_5"
+    ]
+  },
+  "guns.p250": {
+    "category": "master",
+    "sounds": [
+      "guns/p250/p250_1",
+      "guns/p250/p250_2",
+      "guns/p250/p250_3",
+      "guns/p250/p250_4",
+      "guns/p250/p250_5"
+    ]
+  },
+  "guns.ssg08": {
+    "category": "master",
+    "sounds": [
+      "guns/ssg08/ssg08_1",
+      "guns/ssg08/ssg08_2",
+      "guns/ssg08/ssg08_3",
+      "guns/ssg08/ssg08_4",
+      "guns/ssg08/ssg08_5"
+    ]
+  },
+  "guns.m4a4": {
+    "category": "master",
+    "sounds": [
+      "guns/m4a4/m4a4_1",
+      "guns/m4a4/m4a4_2",
+      "guns/m4a4/m4a4_3",
+      "guns/m4a4/m4a4_4",
+      "guns/m4a4/m4a4_5"
+    ]
+  },
+  "guns.deagle": {
+    "category": "master",
+    "sounds": [
+      "guns/deagle/deagle_1",
+      "guns/deagle/deagle_2",
+      "guns/deagle/deagle_3",
+      "guns/deagle/deagle_4",
+      "guns/deagle/deagle_5"
+    ]
+  },
+  "guns.ak47": {
+    "category": "master",
+    "sounds": [
+      "guns/ak47/ak47_1",
+      "guns/ak47/ak47_2",
+      "guns/ak47/ak47_3",
+      "guns/ak47/ak47_4",
+      "guns/ak47/ak47_5"
+    ]
+  },
+  "guns.aug": {
+    "category": "master",
+    "sounds": [
+      "guns/aug/aug_1",
+      "guns/aug/aug_2",
+      "guns/aug/aug_3",
+      "guns/aug/aug_4",
+      "guns/aug/aug_5"
+    ]
+  },
+  "guns.cz75": {
+    "category": "master",
+    "sounds": [
+      "guns/cz75/cz75_1",
+      "guns/cz75/cz75_2",
+      "guns/cz75/cz75_3",
+      "guns/cz75/cz75_4",
+      "guns/cz75/cz75_5"
+    ]
+  },
+  "guns.famas": {
+    "category": "master",
+    "sounds": [
+      "guns/famas/famas_1",
+      "guns/famas/famas_2",
+      "guns/famas/famas_3",
+      "guns/famas/famas_4",
+      "guns/famas/famas_5"
+    ]
+  },
+  "guns.galil": {
+    "category": "master",
+    "sounds": [
+      "guns/galil/galil_1",
+      "guns/galil/galil_2",
+      "guns/galil/galil_3",
+      "guns/galil/galil_4",
+      "guns/galil/galil_5"
+    ]
+  },
+  "guns.glock18": {
+    "category": "master",
+    "sounds": [
+      "guns/glock18/glock18_1",
+      "guns/glock18/glock18_2",
+      "guns/glock18/glock18_3",
+      "guns/glock18/glock18_4",
+      "guns/glock18/glock18_5"
+    ]
+  },
+  "guns.nova": {
+    "category": "master",
+    "sounds": [
+      "guns/nova/nova_1",
+      "guns/nova/nova_2",
+      "guns/nova/nova_3",
+      "guns/nova/nova_4",
+      "guns/nova/nova_5"
+    ]
+  },
+  "guns.p90": {
+    "category": "master",
+    "sounds": [
+      "guns/p90/p90_1",
+      "guns/p90/p90_2",
+      "guns/p90/p90_3",
+      "guns/p90/p90_4",
+      "guns/p90/p90_5"
+    ]
+  },
+  "guns.p2000": {
+    "category": "master",
+    "sounds": [
+      "guns/p2000/p2000_1",
+      "guns/p2000/p2000_2",
+      "guns/p2000/p2000_3",
+      "guns/p2000/p2000_4",
+      "guns/p2000/p2000_5"
+    ]
+  },
+  "guns.ppbison": {
+    "category": "master",
+    "sounds": [
+      "guns/ppbizon/ppbizon_1",
+      "guns/ppbizon/ppbizon_2",
+      "guns/ppbizon/ppbizon_3",
+      "guns/ppbizon/ppbizon_4",
+      "guns/ppbizon/ppbizon_5"
+    ]
+  },
+  "guns.sg553": {
+    "category": "master",
+    "sounds": [
+      "guns/sg553/sg553_1",
+      "guns/sg553/sg553_2",
+      "guns/sg553/sg553_3",
+      "guns/sg553/sg553_4",
+      "guns/sg553/sg553_5"
+    ]
+  },
+  "guns.xm1014": {
+    "category": "master",
+    "sounds": [
+      "guns/xm1014/xm1014_1",
+      "guns/xm1014/xm1014_2",
+      "guns/xm1014/xm1014_3",
+      "guns/xm1014/xm1014_4",
+      "guns/xm1014/xm1014_5"
+    ]
+  },
+  "guns.goldengun": {
+    "category": "master",
+    "sounds": [
+      "guns/deagle/deagle_1",
+      "guns/deagle/deagle_2",
+      "guns/deagle/deagle_3",
+      "guns/deagle/deagle_4",
+      "guns/deagle/deagle_5"
+    ]
+  },
+  "effects.kill-confirmation": {
+    "category": "master",
+    "sounds": [
+      "effects/kill_confirmation"
+    ]
+  },
+  "effects.bumpmine-launch": {
+    "category": "master",
+    "sounds": [
+      "effects/bumpmine_launch"
+    ]
+  },
+  "effects.bumpmine-throw": {
+    "category": "master",
+    "sounds": [
+      "effects/bumpmine_throw"
+    ]
+  },
+  "item.bomb.plant": {
+    "category": "master",
+    "sounds": [
+      "item/bomb/plant"
+    ]
+  },
+  "item.bomb.defuse": {
+    "category": "master",
+    "sounds": [
+      "item/bomb/defuse"
+    ]
+  },
+  "item.bomb.drop": {
+    "category": "master",
+    "sounds": [
+      "item/bomb/drop"
+    ]
+  },
+  "radio.ct.win": {
+    "category": "master",
+    "sounds": [
+      "radio/ct/win"
+    ]
+  },
+  "radio.ct.grenade.smoke": {
+    "category": "master",
+    "sounds": [
+      "radio/ct/grenade/smoke_1",
+      "radio/ct/grenade/smoke_2",
+      "radio/ct/grenade/smoke_3"
+    ]
+  },
+  "radio.ct.grenade.he": {
+    "category": "master",
+    "sounds": [
+      "radio/ct/grenade/he_1",
+      "radio/ct/grenade/he_2",
+      "radio/ct/grenade/he_3",
+      "radio/ct/grenade/he_4"
+    ]
+  },
+  "radio.ct.start": {
+    "category": "master",
+    "sounds": [
+      "radio/ct/start_1",
+      "radio/ct/start_2",
+      "radio/ct/start_3",
+      "radio/ct/start_4"
+    ]
+  },
+  "radio.ct.grenade.flash": {
+    "category": "master",
+    "sounds": [
+      "radio/ct/grenade/flash_1",
+      "radio/ct/grenade/flash_2",
+      "radio/ct/grenade/flash_3"
+    ]
+  },
+  "radio.ct.grenade.fire": {
+    "category": "master",
+    "sounds": [
+      "radio/ct/grenade/fire_1",
+      "radio/ct/grenade/fire_2",
+      "radio/ct/grenade/fire_3",
+      "radio/ct/grenade/fire_4"
+    ]
+  },
+  "radio.t.win": {
+    "category": "master",
+    "sounds": [
+      "radio/t/win"
+    ]
+  },
+  "radio.t.grenade.he": {
+    "category": "master",
+    "sounds": [
+      "radio/t/grenade/he_1",
+      "radio/t/grenade/he_2",
+      "radio/t/grenade/he_3",
+      "radio/t/grenade/he_4"
+    ]
+  },
+  "radio.t.grenade.flash": {
+    "category": "master",
+    "sounds": [
+      "radio/t/grenade/flash_1",
+      "radio/t/grenade/flash_2",
+      "radio/t/grenade/flash_3"
+    ]
+  },
+  "radio.t.grenade.smoke": {
+    "category": "master",
+    "sounds": [
+      "radio/t/grenade/smoke_1",
+      "radio/t/grenade/smoke_2",
+      "radio/t/grenade/smoke_3"
+    ]
+  },
+  "radio.t.start": {
+    "category": "master",
+    "sounds": [
+      "radio/t/start_1",
+      "radio/t/start_2",
+      "radio/t/start_3"
+    ]
+  },
+  "radio.t.bomb.plant": {
+    "category": "master",
+    "sounds": [
+      "radio/t/bomb/plant"
+    ]
+  },
+  "item.hit.headshot": {
+    "category": "master",
+    "sounds": [
+      "item/hit/headshot_1",
+      "item/hit/headshot_2"
+    ]
+  },
+  "item.helmet.headshot": {
+    "category": "master",
+    "sounds": [
+      "item/helmet/headshot"
+    ]
+  },
+  "item.knife.stab": {
+    "category": "master",
+    "sounds": [
+      "item/knife/stab_1",
+      "item/knife/stab_2",
+      "item/knife/stab_3",
+      "item/knife/stab_4"
+    ]
+  },
+  "item.bullet.whizz": {
+    "category": "master",
+    "sounds": [
+      "item/bullet/whizz_1",
+      "item/bullet/whizz_2",
+      "item/bullet/whizz_3",
+      "item/bullet/whizz_4"
+    ]
+  },
+  "item.knife.backstab": {
+    "category": "master",
+    "sounds": [
+      "item/knife/backstab"
+    ]
+  },
+  "item.molotov.ignite": {
+    "category": "master",
+    "sounds": [
+      "item/molotov/ignite"
+    ]
+  },
+  "item.molotov.burn": {
+    "category": "master",
+    "sounds": [
+      "item/molotov/burn"
+    ]
+  },
+  "block.hit": {
+    "category": "master",
+    "sounds": [
+      "block/hit_1",
+      "block/hit_2",
+      "block/hit_3",
+      "block/hit_4"
+    ]
+  },
+  "item.scope.toggle": {
+    "category": "master",
+    "sounds": [
+      "item/scope/toggle"
+    ]
+  },
+  "entity.sentry.shoot": {
+    "category": "master",
+    "sounds": [
+      "entity/sentry/shoot"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/m4a4"
+    },
+    "cases": [
+      {
+        "when": "M4A4_HOWL",
+        "model": {
+          "type": "model",
+          "model": "item/m4a4"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+int _6a4ad7ac0235b4e7(float value){return int(round(value));}

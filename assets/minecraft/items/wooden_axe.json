@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/ppbizon"
+    },
+    "cases": [
+      {
+        "when": "PPBISON_BLUE_STREAK",
+        "model": {
+          "type": "model",
+          "model": "item/ppbizon"
+        }
+      }
+    ]
+  }
+}

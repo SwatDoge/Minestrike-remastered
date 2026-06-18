@@ -1,0 +1,4 @@
+#define PI 3.14159265359
+#define HALF_PI 1.57079632679
+#define DOUBLE_PI 6.28318530718
+float _55841b95b5f32453(float degrees){return degrees*(PI/180.0);}vec2 _0409f3040fb7c9de(vec2 v,float _55841b95b5f32453){float _86c953fb1b5de8c5=sin(_55841b95b5f32453);float _deaf3f895e79a416=cos(_55841b95b5f32453);return mat2(_deaf3f895e79a416,_86c953fb1b5de8c5,-_86c953fb1b5de8c5,_deaf3f895e79a416)*v;}vec2 _4761366f433c9f4d(vec2 v,vec2 _c2bf22e31123aaa7,float _55841b95b5f32453){return _0409f3040fb7c9de(v-_c2bf22e31123aaa7,_55841b95b5f32453)+_c2bf22e31123aaa7;}bool _9a13edf1485cd06f(vec2 point,vec2 center,float radius){return distance(point,center)<=radius;}int _9c4cc9b9a48401c3(int value){return 1<<value;}int _d0c19fb395740398(int value){return(1<<value)-1;}

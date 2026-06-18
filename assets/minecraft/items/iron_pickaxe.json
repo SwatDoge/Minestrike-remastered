@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/sg553"
+    },
+    "cases": [
+      {
+        "when": "SG_553_PULSE",
+        "model": {
+          "type": "model",
+          "model": "item/sg553"
+        }
+      }
+    ]
+  }
+}

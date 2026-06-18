@@ -1,0 +1,1 @@
+float _d6c76f1b23830ea4(mat3 IViewRotMat){return atan(-IViewRotMat[0].z,IViewRotMat[0].x);}float _8cbaaf4de0206ccf(mat3 IViewRotMat){return atan(-IViewRotMat[2].y,length(IViewRotMat[2].xz));}

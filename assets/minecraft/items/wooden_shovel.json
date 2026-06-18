@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/ak47"
+    },
+    "cases": [
+      {
+        "when": "AK_VULKAN",
+        "model": {
+          "type": "model",
+          "model": "item/ak47"
+        }
+      }
+    ]
+  }
+}

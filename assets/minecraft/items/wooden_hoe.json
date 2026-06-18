@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/p2000"
+    },
+    "cases": [
+      {
+        "when": "P2000_ELEMENTAL",
+        "model": {
+          "type": "model",
+          "model": "item/p2000"
+        }
+      }
+    ]
+  }
+}

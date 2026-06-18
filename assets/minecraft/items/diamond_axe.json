@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/xm1014"
+    },
+    "cases": [
+      {
+        "when": "XM1014_TRANQUILITY",
+        "model": {
+          "type": "model",
+          "model": "item/xm1014"
+        }
+      }
+    ]
+  }
+}

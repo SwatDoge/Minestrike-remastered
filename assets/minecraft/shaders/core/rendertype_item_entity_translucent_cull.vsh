@@ -1,0 +1,11 @@
+#version 330
+#moj_import<minecraft:light.glsl>
+#moj_import<minecraft:fog.glsl>
+#moj_import<minecraft:dynamictransforms.glsl>
+#moj_import<minecraft:projection.glsl>
+#moj_import<minecraft:globals.glsl>
+in vec3 Position;in vec4 Color;in vec2 UV0;in vec2 UV1;in ivec2 UV2;in vec3 Normal;uniform sampler2D Sampler2;out float sphericalVertexDistance;out float cylindricalVertexDistance;out vec4 vertexColor;out vec2 texCoord0;out vec2 texCoord1;out vec2 texCoord2;
+#moj_import<_f48d6a09029374a8.glsl>
+#moj_import<_b09bb7f4a85f9fa1.glsl>
+#moj_import<_b09bb7f4a85f9fa1.glsl>
+void main(){gl_Position=ProjMat*ModelViewMat*vec4(Position,1.0);sphericalVertexDistance=fog_spherical_distance(Position);cylindricalVertexDistance=fog_cylindrical_distance(Position);vertexColor=minecraft_mix_light(Light0_Direction,Light1_Direction,Normal,Color)*texelFetch(Sampler2,UV2/16,0);texCoord0=UV0;texCoord1=UV1;texCoord2=UV2;if(_6a4ad7ac0235b4e7(Position.y)<=-2000){vec3 _f57c331956418c78=Position;int _7d49a9ec0f729e2d=(_6a4ad7ac0235b4e7(Position.y)+2000)/-1000;_f57c331956418c78.y+=(_7d49a9ec0f729e2d*1000)+2500;if(_7d49a9ec0f729e2d==0){sphericalVertexDistance=fog_spherical_distance(_f57c331956418c78);cylindricalVertexDistance=fog_cylindrical_distance(_f57c331956418c78);gl_Position=ProjMat*vec4(_f57c331956418c78,1.0);gl_Position.z*=0.1;}else if(_7d49a9ec0f729e2d==1){sphericalVertexDistance=fog_spherical_distance(_f57c331956418c78);cylindricalVertexDistance=fog_cylindrical_distance(_f57c331956418c78);vertexColor.a=0.25;gl_Position=ProjMat*ModelViewMat*vec4(_f57c331956418c78,1.0);}else if(_7d49a9ec0f729e2d==2){sphericalVertexDistance=fog_spherical_distance(_f57c331956418c78);cylindricalVertexDistance=fog_cylindrical_distance(_f57c331956418c78);vertexColor.a=0.5;gl_Position=ProjMat*ModelViewMat*vec4(_f57c331956418c78,1.0);}else if(_7d49a9ec0f729e2d==3){sphericalVertexDistance=fog_spherical_distance(_f57c331956418c78);cylindricalVertexDistance=fog_cylindrical_distance(_f57c331956418c78);vertexColor.a=0.75;gl_Position=ProjMat*ModelViewMat*vec4(_f57c331956418c78,1.0);}return;}ivec4 _16da1c56e6115ceb=ivec4(Color*255);if(_16da1c56e6115ceb==ivec4(0,0,2,255)){gl_Position.z=0;if(ModelViewMat[3][2]==-11000.0){vertexColor=vec4(0);}else{vertexColor=vec4(0.0,0.0,0.0,1.0);}return;}}
