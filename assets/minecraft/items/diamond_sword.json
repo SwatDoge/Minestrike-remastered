@@ -1,17 +1,17 @@
- {
+{
   "model": {
     "type": "select",
     "property": "custom_model_data",
     "fallback": {
       "type": "model",
-      "model": "item/bayonet"
+      "model": "item/ct_knife"
     },
     "cases": [
       {
         "when": "PLACEHOLDER",
         "model": {
           "type": "model",
-          "model": "item/bayonet"
+          "model": "item/ct_knife"
         }
       }
     ]

@@ -1,0 +1,286 @@
+{
+  "__comment": "Designed_by_Mechanan_with_BDcraft_Cubik_PRO_0.95_Beta_-_http://bdcraft.net",
+  "textures": {
+    "texture": "block/ladder",
+    "particle": "block/ladder"
+  },
+  "elements": [
+    {
+      "__comment": "Ladder",
+      "from": [
+        0,
+        0,
+        13.5
+      ],
+      "to": [
+        3,
+        16,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            16,
+            2.5,
+            13.5,
+            0
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            3,
+            2.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            13.5,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            13.5,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            16
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Ladder",
+      "from": [
+        3,
+        7,
+        14.5
+      ],
+      "to": [
+        13,
+        9,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.5,
+            1.5,
+            1.5,
+            0
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            0.5,
+            14.5,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            3,
+            0,
+            16,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            14.5,
+            0,
+            16,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            2
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Ladder",
+      "from": [
+        13,
+        0,
+        13.5
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.5,
+            16,
+            0,
+            13.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            13.5,
+            13.5,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            13.5,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            13.5,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            16
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -7
+      ],
+      "scale": [
+        1.29,
+        1.29,
+        1.29
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}
