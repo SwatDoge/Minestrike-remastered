@@ -96,21 +96,13 @@
   "guns.nova": {
     "category": "master",
     "sounds": [
-      "guns/nova/nova_1",
-      "guns/nova/nova_2",
-      "guns/nova/nova_3",
-      "guns/nova/nova_4",
-      "guns/nova/nova_5"
+      "guns/nova"
     ]
   },
   "guns.p90": {
     "category": "master",
     "sounds": [
-      "guns/p90/p90_1",
-      "guns/p90/p90_2",
-      "guns/p90/p90_3",
-      "guns/p90/p90_4",
-      "guns/p90/p90_5"
+      "guns/p90"
     ]
   },
   "guns.p2000": {
@@ -122,11 +114,7 @@
   "guns.ppbison": {
     "category": "master",
     "sounds": [
-      "guns/ppbizon/ppbizon_1",
-      "guns/ppbizon/ppbizon_2",
-      "guns/ppbizon/ppbizon_3",
-      "guns/ppbizon/ppbizon_4",
-      "guns/ppbizon/ppbizon_5"
+      "guns/ppbizon"
     ]
   },
   "guns.sg553": {
@@ -142,11 +130,7 @@
   "guns.xm1014": {
     "category": "master",
     "sounds": [
-      "guns/xm1014/xm1014_1",
-      "guns/xm1014/xm1014_2",
-      "guns/xm1014/xm1014_3",
-      "guns/xm1014/xm1014_4",
-      "guns/xm1014/xm1014_5"
+      "guns/xm1014"
     ]
   },
   "guns.goldengun": {
