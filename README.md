@@ -1,5 +1,5 @@
 The resource pack:
-[Minestrike remastered.zip download](https://github.com/SwatDoge/Minestrike-remastered/archive/refs/tags/0.0.3.zip)
+[Minestrike remastered.zip download](https://github.com/SwatDoge/Minestrike-remastered/archive/refs/tags/0.0.4.zip)
 
 Current features:
 - Removed logos
