@@ -1,10 +1,14 @@
 The resource pack:
-[Minestrike remastered.zip download](https://github.com/SwatDoge/Minestrike-remastered/archive/refs/tags/0.0.3.zip)
+[Minestrike remastered.zip download](https://github.com/SwatDoge/Minestrike-remastered/archive/refs/tags/0.0.4.zip)
 
 Current features:
 - Removed logos
 - Restored old models and sounds
 - A bunch of fixes
+
+Change log:
+- Fixed global audio issue
+ - Fixed p2000 having wrong sound
 
 Tutorial to disable the default server resource packs: https://www.youtube.com/watch?v=Xsy5Ch_QOIU
 
