@@ -7,5 +7,5 @@ Current features:
 - Restored old models and sounds
 - A bunch of fixes
 
-Tutorial to disable overlapping resource packs:
+Tutorial to disable the default server resource packs:
 [![Thumbnai](https://i.ytimg.com/vi/Xsy5Ch_QOIU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xsy5Ch_QOIU)
