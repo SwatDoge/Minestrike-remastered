@@ -2,7 +2,7 @@ The resource pack:
 [Minestrike remastered.zip](https://github.com/user-attachments/files/29155001/Minestrike.remastered.zip)
 
 Current features:
-- Removed F5 blocker
+- Removed annoying F5 blocker
 - Removed logos
 - Restored old models and sounds
 - A bunch of fixes
