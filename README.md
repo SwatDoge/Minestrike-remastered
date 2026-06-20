@@ -8,7 +8,8 @@ Current features:
 
 Change log:
 - Fixed global audio issue
- - Fixed p2000 having wrong sound
+- Fixed p2000 having wrong sound
+- Aligned sniper scope 
 
 Tutorial to disable the default server resource packs: https://www.youtube.com/watch?v=Xsy5Ch_QOIU
 
