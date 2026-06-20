@@ -5,7 +5,6 @@ Current features:
 - Removed logos
 - Restored old models and sounds
 - A bunch of fixes
-- Removed annoying F5 blocker
 
 Tutorial to disable the default server resource packs: https://www.youtube.com/watch?v=Xsy5Ch_QOIU
 
