@@ -1,7 +1,11 @@
-Video on disabling the official resource packs properly
-
-[![Thumbnai](https://i.ytimg.com/vi/Vjr42_HOgH4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGggaChoMA8=&rs=AOn4CLBVXNc7-EV00rzgkoyrbSzjultBpw)](https://www.youtube.com/watch?v=Vjr42_HOgH4)
+The resource pack:
+[Minestrike remastered.zip](https://github.com/user-attachments/files/29155001/Minestrike.remastered.zip)
 
 Current features:
 - Removed F5 blocker
 - Removed logos
+- Restored old models and sounds
+- A bunch of fixes
+
+Tutorial to disable overlapping resource packs:
+[![Thumbnai](https://i.ytimg.com/vi/Xsy5Ch_QOIU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xsy5Ch_QOIU)
