@@ -12,7 +12,7 @@ Tutorial to disable the default server resource packs: https://www.youtube.com/w
 
 
 Minestrike discord servers:
-https://discord.gg/dbUrRvvaEt - mscl
-https://discord.gg/JHw5EsEmXv - minestrike club
-https://discord.gg/uEHZZaJqWN - Strikers community
-https://discord.gg/YBnq2um - DQ Krunker
+- https://discord.gg/dbUrRvvaEt - mscl
+- https://discord.gg/JHw5EsEmXv - minestrike club
+- https://discord.gg/uEHZZaJqWN - Strikers community
+- https://discord.gg/YBnq2um - DQ Krunker
